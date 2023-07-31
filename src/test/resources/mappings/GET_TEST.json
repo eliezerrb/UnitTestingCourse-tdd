@@ -1,0 +1,15 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/api/test"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": {"firstName":"Wesley","lastName":"Jesus","phoneNumber":"(11)96367-5807","legalDocument":"152.674.970-02","gender":"male","profileId":"4368864465","receivePromoEmail":"no","dateOfBirth":"28/01/1993","email":"dowowo7589@covbase.com","postalCode":"04180112","omniRegion":"SP","generatedPwd":false,"legalTermsAcceptance":true,"hasGoogleLogin":false,"hasFacebookLogin":false,"hasAppleLogin":false,"receiveNotificationsWhatsApp":false,"deletionRequested":false,"deletionRequestedMessage":null,"profileHash":"0/NVUcKWee0Oo/i5E5JhQg=="},
+    "headers": {
+      "Content-Type": "application/json",
+      "Cookie": "DYN_USER_ID=4368864465; expires=Fri, 17-Mar-2023 11:51:10 UTC; path=/; HttpOnly;Secure;JSESSIONID=Gn5U6fDkDannThA-0d5HxJoGHpRtjDHPuEHoTxS5N8-TswYI13gY!-1348829136; path=/; HttpOnly;Secure;DYN_USER_CONFIRM=d2ecb58d7e63610a38108963f66cf7b4; expires=Fri, 17-Mar-2023 11:51:10 UTC; path=/; HttpOnly;Secure;F5SESSIONID=!Eg2zZO3XXQ+fWSHUYsn4mJA7usg5fYMFRYlcCrlaBdcpaQmqTpnl7iauElGgamDaXLEZTg==; path=/;Domain=.lojasrenner.com.br;HttpOnly;",
+      "X-ATG-Version": "version=QVRHUGxhdGZvcm0vMTEuMy4y"
+    }
+  }
+}
